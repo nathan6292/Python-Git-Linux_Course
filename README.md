@@ -9,5 +9,18 @@ Alix s’envola vers l’Atlas, bravant la chaleur accablante et les vents de sa
 Et enfin, au cœur des dunes, sous un ciel étoilé, elle trouva ce qu’elle cherchait. Un livre. Pas un simple ouvrage, mais un recueil d’une rare complexité, un chef-d'œuvre mathématique qui semblait contenir les clés d’un monde que peu pouvaient comprendre.
 L’Elkaroui était réel. Et Alix savait que ce n’était que le début de quelque chose d’encore plus grand.
 Repository used for team-based hands-on exercises in the Advanced Python, Git, and Linux course.
-test de antoine
 
+Alix ajusta son sac à dos et jeta un dernier regard derrière elle. Son objectif était clair : retrouver l’Elkaroui, cet artefact légendaire dont peu connaissaient la véritable nature. Certains murmuraient qu’il s’agissait d’un grimoire ancien, d’autres d’un objeSon périple l’emmena d’abord dans les méandres des bibliothèques oubliées, là où les érudits du passé avaient laissé des indices cryptiques$
+Puis vinrent les voyages. Paris, Tunis, Londres. Chaque ville lui révélait une nouvelle énigme, une nouvelle pièce du puzzle. Dans une ruel$
+"Si tu cherches vraiment l’Elkaroui, suis la lumière là où la nuit ne tombe jamais."
+Le désert. Bien sûr. 
+Alix s’envola vers l’Atlas, bravant la chaleur accablante et les vents de sable, suivant les vestiges d’une civilisation disparue. Chaque p$
+Et enfin, au cœur des dunes, sous un ciel étoilé, elle trouva ce qu’elle cherchait. Un livre. Pas un simple ouvrage, mais un recueil d’une $
+$ hands-on exercises in the Advanced Python, Git, and Linux course t scientifique perdu, et les plus fous prétendaient qu’il renfermait les secrets de l’univers. Mais Alix, elle, savait une chose : l’Elkaroui existait, et elle était prête à tout pour le trouver.
+Success is not final,
+Failure is not fatal,
+It is the courage to continue
+That counts.
+- Winston Churchill
+
+test de antoine
